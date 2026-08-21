@@ -1,1 +1,27 @@
+body {
+    background-color: fuchsia;
+color:#222222;
+font-family:Arial, sans-serif;
+margin: 0;
+}
+
+header {
+    background-color:blueviolet
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+h1 { 
+    font-size: 36px;
+}
+h2 {
+    color:aquamarine;
+}
+
+p{
+    font-size: 18px;
+    line-height: 1 .6;
+    nav {
+        margin
+
 
