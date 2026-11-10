@@ -1,4 +1,44 @@
-body {
+:root{
+    --cor-fundo:#f4f1ea;
+    --cor-texto:#28af1c;
+    --cor-principal:#6b2d5c;
+    --cor-secundaria:#aa381b;
+    --cor-hover:#8e5fdb;
+    --cor-superficie:white;
+    --cor-card:#5b9ac4;
+    --cor-legenda:#555555;
+    --cor-clara:white;
+    --cor-rodape:#222222;
+}
+.tema-escuro{
+    --cor-fundo:#121212;
+    --cor-texto:#f5f5f5;
+    --cor-principal:
+
+
+
+
+
+
+
+
+
+
+
+
+.btn-tema}
+    position:fixed;
+    right:20px;
+    bottom:20px;
+    width:50px;
+    height:50px;
+    border-radius:50%;
+    font-size:22px;
+
+
+
+
+
     background-color: fuchsia;
 color:#222222;
 font-family:Arial, sans-serif;
@@ -38,5 +78,6 @@ p{
     height:50px;
     border-radius:50%;
     font-size:22px;
+    
 
 
